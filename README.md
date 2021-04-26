@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @REDONEdt
+- 👋 Hi, I’m redone
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on django related projects
